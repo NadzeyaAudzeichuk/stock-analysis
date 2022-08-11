@@ -76,7 +76,7 @@ We loop through the data one time and, using _if-then_ statements and _logical o
     ```
 
 With the script above, execution of 2017 and 2018 data takes 0.215 and 0.218 seconds, respectively:
-![VBA_Challenge_2017_Refactored.png]![VBA_ChallEnge_2018_Refactored.png]
+![VBA_Challenge_2017_Refactored.png](https://github.com/NadzeyaAudzeichuk/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Refactored.png)![VBA_ChallEnge_2018_Refactored.png](https://github.com/NadzeyaAudzeichuk/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Refactored.png)
 
 As we can see, code refactoring improved the run time. The code above works more efficiently because it iterates the data one time only. Therefore, fewer steps are performed, and less memory is used to execute. 
 
